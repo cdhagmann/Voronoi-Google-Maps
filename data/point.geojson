@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+
+    "features": [{
+            "type": "Feature",
+            "id": 1,
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-89.38778, 43.073539]
+            },
+            "properties": {
+                "name": "Central Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-89.346358, 43.101542]
+            },
+            "properties": {
+                "name": "Hawthorne Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-89.323934, 43.084488]
+            },
+            "properties": {
+                "name": "Pinney Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-89.479014, 43.032509]
+            },
+            "properties": {
+                "name": "Meadowridge Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-89.450349, 43.053838]
+            },
+            "properties": {
+                "name": "Sequoya Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-89.415187, 43.065922]
+            },
+            "properties": {
+                "name": "Monroe Street Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-89.362317, 43.127779]
+            },
+            "properties": {
+                "name": "Lakeview Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-89.394437, 43.041388]
+            },
+            "properties": {
+                "name": "Goodman South Madison Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-89.517674, 43.076068]
+            },
+            "properties": {
+                "name": "Alicia Ashman Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-89.527990, 42.997514]
+            },
+            "properties": {
+                "name": "Verona Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-89.5115857, 43.0952059]
+            },
+            "properties": {
+                "name": "Middleton Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-89.424930, 43.001548]
+            },
+            "properties": {
+                "name": "Fitchburg Library"
+            }
+        }
+
+
+    ]
+}
